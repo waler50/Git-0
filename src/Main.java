@@ -4,5 +4,6 @@ public class Main {
         System.out.print("Hello");
         System.out.println(" world!");
         new ClassFirst();
+        new ClassSecond();
     }
 }
